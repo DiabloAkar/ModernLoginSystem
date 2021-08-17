@@ -38,7 +38,22 @@ if kullaniciadi == kadi:
     if s1fre == sifre:
         print(Fore.GREEN+'Oturum başarıyla açıldı giriş yapılıyor')
         time.sleep(5) # Buradan sonra ekleyeceğiniz komutlar size bağlıdır iyi kodlamalar :)
-else:
+if kullaniciadi != kadi: # yerine elsede kullanılabilir
+    print('Yanlış kullanıcı adı veya şifre girdiniz program kendisini 5 saniye sonra kapatacaktır!')
+    time.sleep(1)
+    print('1')
+    time.sleep(1)
+    print('2')
+    time.sleep(1)
+    print('3')
+    time.sleep(1)
+    print('4')
+    time.sleep(1)
+    print('5')
+    time.sleep(1)
+    print(Fore.RED+'PROGRAM KENDİNİ KAPATIYOR')
+    time.sleep(3)
+if s1fre != sifre:
     print('Yanlış kullanıcı adı veya şifre girdiniz program kendisini 5 saniye sonra kapatacaktır!')
     time.sleep(1)
     print('1')
