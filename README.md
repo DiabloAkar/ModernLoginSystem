@@ -17,7 +17,7 @@ Coded by DiabloAkar & YusufAkar
 
 ### Eğer uygulamayı açamıyorsanız ---->
 2. `cd desktop`
-3. `start loginsystem.py`
+3. `python3 loginsystem.py`
 3. `üstteki olmuyorsa`
 4. `start loginsystem.py`
 
