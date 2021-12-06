@@ -5,7 +5,7 @@ Coded by DiabloAkar & YusufAkar
 
 ## Giriş:
 
-- [AkarGang Discord](https://discord.gg/akargang) Sayfasına gidin
+- [AkarGang Discord](https://discord.gg/6zWuHBmxvX) Sayfasına gidin
 - [Tıkla](https://github.com/yusufakartr) Proje Ortağı 1
 -  **"Amacı Hazır Modern Login Giriş Sistemi"** 
 -  **"AkarGang Developers tarafından kodlanmıştır"**
